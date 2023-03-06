@@ -6,7 +6,7 @@ Summary:	Python 2 extension to parse BibTeX files
 Summary(pl.UTF-8):	Rozszerzenie Pythona 2 do analizy plików BibTeXa
 Name:		python-bibtex
 Version:	1.2.7
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Libraries/Python
 Source0:	http://downloads.sourceforge.net/pybliographer/%{name}-%{version}.tar.gz
